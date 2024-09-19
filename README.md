@@ -1,4 +1,4 @@
-# 🏦 Home Banking React - Sprint 2 - ITBA
+# 🏦 Home Banking React - Sprint 3 - ITBA
 
 ![Logo Rossum](https://itbank.moveup.digital/img/logo.webp)
 
